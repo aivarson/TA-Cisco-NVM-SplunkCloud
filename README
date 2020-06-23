@@ -1,1 +1,5 @@
 Please see: https://splunkbase.splunk.com/app/2992/#/details
+
+Cloud vetted version of TA-Cisco-NVM. This version was built from the main splunkbase app but removed items that would not pass cloud vetting and were not needed (ie indexes.conf and inputs.conf). Inputs need to be done on a HF.
+
+Works with 7.2.x and 8.x versions of Splunk Cloud.
