@@ -1,0 +1,14 @@
+type, text
+0x0000, Unknown
+0x0001, Local Standard User
+0x0002, Local Admin User  
+0x0003, Local Guest User
+0x0004, Local Root User
+0x8001, Domain Standard User
+0x8002, Domain Admin User
+0x8003, Domain Guest User
+0x8004, Domain Root User
+0x4002, Non-elevated Local Admin User
+0x4004, Non-elevated Local Root user
+0x2002, Elevated Local Admin User
+0x2004, Elevated Local Root User
